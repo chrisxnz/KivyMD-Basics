@@ -9,3 +9,6 @@ https://material.io/design/introduction
 4) New Project -> Install KivyMD - Kivy and other 4 things
 5) First Kivy App
 6) Any notes/links can be found on Github
+
+7)Ensure to follow proper instructions to successfully download Kivy
+8)Kivy is only support between python 3.6 and 3.9 
